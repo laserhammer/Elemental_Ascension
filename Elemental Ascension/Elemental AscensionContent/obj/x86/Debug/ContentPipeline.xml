@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>air_impact.wav</Source>
+      <Name>air_impact</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\air_impact.xnb</Output>
+      <Time>2012-05-22T22:33:10.2480195-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Burning.wav</Source>
+      <Name>Burning</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Burning.xnb</Output>
+      <Time>2012-05-22T22:33:10.1450136-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Collect.wav</Source>
+      <Name>Collect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Collect.xnb</Output>
+      <Time>2012-05-22T22:33:10.1700151-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DashSound.wav</Source>
+      <Name>DashSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\DashSound.xnb</Output>
+      <Time>2012-05-22T22:33:10.1740153-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DoubleJump.wav</Source>
+      <Name>DoubleJump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\DoubleJump.xnb</Output>
+      <Time>2012-05-22T22:33:10.1760154-04:00</Time>
+    </Item>
+    <Item>
+      <Source>earth_impact.wav</Source>
+      <Name>earth_impact</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\earth_impact.xnb</Output>
+      <Time>2012-05-22T22:33:10.1790156-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fireball_impact.wav</Source>
+      <Name>fireball_impact</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\fireball_impact.xnb</Output>
+      <Time>2012-05-22T22:33:10.1910163-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.wav</Source>
+      <Name>GameOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2012-05-22T22:33:10.2140176-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Landing.wav</Source>
+      <Name>Landing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Landing.xnb</Output>
+      <Time>2012-05-22T22:33:10.222018-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Shoot.wav</Source>
+      <Name>Shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Shoot.xnb</Output>
+      <Time>2012-05-22T22:33:10.2360188-04:00</Time>
+    </Item>
+    <Item>
+      <Source>snowball_impact.wav</Source>
+      <Name>snowball_impact</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\snowball_impact.xnb</Output>
+      <Time>2012-05-22T22:33:10.2370189-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Step0.wav</Source>
+      <Name>Step0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Step0.xnb</Output>
+      <Time>2012-05-22T22:33:10.2420192-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Step1.wav</Source>
+      <Name>Step1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Step1.xnb</Output>
+      <Time>2012-05-22T22:33:10.2430192-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Alchemists Tower.wma</Source>
+      <Name>Alchemists Tower</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Alchemists Tower.xnb</Output>
+      <Extra>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Alchemists Tower.wma</Extra>
+      <Time>2012-05-22T22:33:10.2510197-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundBottom.png</Source>
+      <Name>BackgroundBottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BackgroundBottom.xnb</Output>
+      <Time>2012-05-22T22:33:10.2530198-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundTop.png</Source>
+      <Name>BackgroundTop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BackgroundTop.xnb</Output>
+      <Time>2012-05-22T22:33:10.25602-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blueCollectibleSheet.png</Source>
+      <Name>blueCollectibleSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\blueCollectibleSheet.xnb</Output>
+      <Time>2012-05-22T22:33:10.2580201-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BurnableLeft.png</Source>
+      <Name>BurnableLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurnableLeft.xnb</Output>
+      <Time>2012-05-22T22:33:10.2600202-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BurnableRight.png</Source>
+      <Name>BurnableRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurnableRight.xnb</Output>
+      <Time>2012-05-22T22:33:10.2620203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BurnableSmall.png</Source>
+      <Name>BurnableSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurnableSmall.xnb</Output>
+      <Time>2012-05-22T22:33:10.1400134-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BurnableWall.png</Source>
+      <Name>BurnableWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurnableWall.xnb</Output>
+      <Time>2012-05-22T22:33:10.1430135-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BurningWalls.png</Source>
+      <Name>BurningWalls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurningWalls.xnb</Output>
+      <Time>2012-05-22T22:33:10.1470138-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterCrouch.png</Source>
+      <Name>CharacterCrouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterCrouch.xnb</Output>
+      <Time>2012-05-22T22:33:10.1500139-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterJump.png</Source>
+      <Name>CharacterJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterJump.xnb</Output>
+      <Time>2012-05-22T22:33:10.1530141-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterNeutral.png</Source>
+      <Name>CharacterNeutral</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterNeutral.xnb</Output>
+      <Time>2012-05-22T22:33:10.1560143-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterRunning.png</Source>
+      <Name>CharacterRunning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterRunning.xnb</Output>
+      <Time>2012-05-22T22:33:10.1580144-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterSpriteSheet.png</Source>
+      <Name>CharacterSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterSpriteSheet.xnb</Output>
+      <Time>2012-05-22T22:33:10.1600145-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Crosshairs.png</Source>
+      <Name>Crosshairs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Crosshairs.xnb</Output>
+      <Time>2012-05-22T22:33:10.1720152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Crumblingwall.png</Source>
+      <Name>Crumblingwall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Crumblingwall.xnb</Output>
+      <Time>2012-05-22T22:33:10.1730152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DoubleJumpCloud.png</Source>
+      <Name>DoubleJumpCloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\DoubleJumpCloud.xnb</Output>
+      <Time>2012-05-22T22:33:10.1780155-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyBurnComplete.png</Source>
+      <Name>EnemyBurnComplete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\EnemyBurnComplete.xnb</Output>
+      <Time>2012-05-22T22:33:10.1810157-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FireBall.png</Source>
+      <Name>FireBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\FireBall.xnb</Output>
+      <Time>2012-05-22T22:33:10.1900162-04:00</Time>
+    </Item>
+    <Item>
+      <Source>greenCollectibleSheet.png</Source>
+      <Name>greenCollectibleSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\greenCollectibleSheet.xnb</Output>
+      <Time>2012-05-22T22:33:10.2160177-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HalfBurnableWall.png</Source>
+      <Name>HalfBurnableWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\HalfBurnableWall.xnb</Output>
+      <Time>2012-05-22T22:33:10.2180178-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HalfCrumblingWall.png</Source>
+      <Name>HalfCrumblingWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\HalfCrumblingWall.xnb</Output>
+      <Time>2012-05-22T22:33:10.2200179-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HalfSolidWall.png</Source>
+      <Name>HalfSolidWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\HalfSolidWall.xnb</Output>
+      <Time>2012-05-22T22:33:10.221018-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mageEarth.png</Source>
+      <Name>mageEarth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\mageEarth.xnb</Output>
+      <Time>2012-05-22T22:33:10.2240182-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mageFire.png</Source>
+      <Name>mageFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\mageFire.xnb</Output>
+      <Time>2012-05-22T22:33:10.2250182-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mageWater.png</Source>
+      <Name>mageWater</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\mageWater.xnb</Output>
+      <Time>2012-05-22T22:33:10.2270183-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mageWind.png</Source>
+      <Name>mageWind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\mageWind.xnb</Output>
+      <Time>2012-05-22T22:33:10.2290184-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuDrawing.png</Source>
+      <Name>MenuDrawing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\MenuDrawing.xnb</Output>
+      <Time>2012-05-22T22:33:10.2320186-04:00</Time>
+    </Item>
+    <Item>
+      <Source>playerDashSheet.png</Source>
+      <Name>playerDashSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\playerDashSheet.xnb</Output>
+      <Time>2012-05-22T22:33:10.2330187-04:00</Time>
+    </Item>
+    <Item>
+      <Source>redCollectibleSheet.png</Source>
+      <Name>redCollectibleSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\redCollectibleSheet.xnb</Output>
+      <Time>2012-05-22T22:33:10.2350188-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SolidWall.png</Source>
+      <Name>SolidWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\SolidWall.xnb</Output>
+      <Time>2012-05-22T22:33:10.239019-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SolidWall1.png</Source>
+      <Name>SolidWall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\SolidWall1.xnb</Output>
+      <Time>2012-05-22T22:33:10.2410191-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleText.png</Source>
+      <Name>TitleText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\TitleText.xnb</Output>
+      <Time>2012-05-22T22:33:10.2450194-04:00</Time>
+    </Item>
+    <Item>
+      <Source>wallShadow.png</Source>
+      <Name>wallShadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\wallShadow.xnb</Output>
+      <Time>2012-05-22T22:33:10.2470195-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Failing Defense.mp3</Source>
+      <Name>Failing Defense</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Failing Defense.xnb</Output>
+      <Extra>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Failing Defense.wma</Extra>
+      <Time>2012-05-22T22:33:10.1880161-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Debug.spritefont</Source>
+      <Name>Debug</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Debug.xnb</Output>
+      <Time>2012-05-22T22:33:10.1750154-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental AscensionContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental AscensionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-25T18:31:09.8471016-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,57 @@
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\air_impact.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Burning.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Collect.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\DashSound.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\DoubleJump.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\earth_impact.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\fireball_impact.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Landing.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Shoot.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\snowball_impact.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Step0.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Step1.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Alchemists Tower.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BackgroundBottom.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BackgroundTop.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\blueCollectibleSheet.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurnableLeft.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurnableRight.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurnableSmall.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurnableWall.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\BurningWalls.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterCrouch.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterJump.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterNeutral.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterRunning.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\CharacterSpriteSheet.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Crosshairs.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Crumblingwall.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\DoubleJumpCloud.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\EnemyBurnComplete.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\FireBall.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\greenCollectibleSheet.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\HalfBurnableWall.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\HalfCrumblingWall.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\HalfSolidWall.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\mageEarth.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\mageFire.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\mageWater.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\mageWind.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\MenuDrawing.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\playerDashSheet.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\redCollectibleSheet.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\SolidWall.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\SolidWall1.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\TitleText.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\wallShadow.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Failing Defense.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Debug.xnb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Alchemists Tower.wma
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Content\Failing Defense.wma
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Elemental Ascension.exe
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\bin\x86\Debug\Elemental Ascension.pdb
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\obj\x86\Debug\Elemental Ascension.exe
+C:\Users\Ben\Desktop\Elemental Ascension\Elemental Ascension\Elemental Ascension\obj\x86\Debug\Elemental Ascension.pdb
